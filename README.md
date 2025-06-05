@@ -24,9 +24,9 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavya1352&show_icons=true&theme=radical" alt="stats" />
-</p>
+
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Bhavya1352&show_icons=true&theme=radical" alt="stats" />  -->
+<!-- </p>  -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavya1352&theme=radical" alt="streak-stats" />
