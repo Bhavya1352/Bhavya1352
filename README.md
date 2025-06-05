@@ -25,15 +25,15 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavya-username&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavya1352&show_icons=true&theme=radical" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya-username&theme=radical" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavya1352&theme=radical" alt="streak-stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya1352&layout=compact&theme=radical" />
 </p>
 
 ---
