@@ -46,7 +46,7 @@
 
 #
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/bhavya-mishra-7a3b09324)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/bhavya-mishra-7a3b09324)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavyamishra698@gmail.com)
 
   
