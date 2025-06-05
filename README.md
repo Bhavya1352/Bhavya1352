@@ -22,7 +22,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+
 
 
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Bhavya1352&show_icons=true&theme=radical" alt="stats" />  -->
