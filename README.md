@@ -1,17 +1,46 @@
-## Hi there 👋
 
-<!--
-**Bhavya1352/bhavya1352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am web devloper
-Here are some ideas to get you started:
-author name-bhavya mishra
+<h1 align="center">Hi 👋, I'm Bhavya</h1>
+<h3 align="center">A passionate learner and developer from India</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Frontend Web Projects**
+
+- 🌱 I’m currently learning **JavaScript, React, and UI/UX**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 💬 Ask me about **HTML, CSS, GitHub, and Design**
+
+- 📫 How to reach me **bhavyamishra698@gmail.com**
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,github,figma,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavya-username&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya-username&theme=radical" alt="streak-stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-username&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect with me:
+
+<p align="left">
+  <a href="www.linkedin.com/in/bhavya-mishra-7a3b09324"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+  <a href="mailto:bhavyamishra698@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+</p>
