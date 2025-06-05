@@ -17,7 +17,7 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode" />
 </p>
 
 ---
