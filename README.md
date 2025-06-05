@@ -41,6 +41,13 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="www.linkedin.com/in/bhavya-mishra-7a3b09324"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:bhavyamishra698@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+<!--   <a href="www.linkedin.com/in/bhavya-mishra-7a3b09324"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>  -->
+<!--   <a href="mailto:bhavyamishra698@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a> -->
+
+#
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/bhavya-mishra-7a3b09324)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavyamishra698@gmail.com)
+
+  
 </p>
